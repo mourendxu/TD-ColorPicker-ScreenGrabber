@@ -10,6 +10,10 @@
  ## Usage:
  
  
+ ### Cancelling
+ 
+ During any of the following operations, before you let go the *Control* key, you can cancel the operation by pressing the *Shift* key.
+ 
  ### Picking Color:
  
  1. Activate the Tox by clicking on the *On/Off* Toggle, under *Settings*
