@@ -21,7 +21,7 @@
  3. Mouse over the color you want to choose
  4. Press and Release the *Control* key. **DO NOT MOVE THE MOUSE** during this. 
  
- The colors you picked will be outputted to output 2 and 3. Output 2 gives you the colors in a DAT. Output 3 gives you the color(s) as a single image laid out in a grid.
+ The colors you picked will be outputted to output 2 and 3. Output 2 gives you the colors in a DAT, with the RGBA values. You can easily take this and generate a color table for a RampTOP. Output 3 gives you the color(s) as a single image laid out in a grid.
  
  
  
