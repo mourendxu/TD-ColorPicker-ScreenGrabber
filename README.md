@@ -14,7 +14,8 @@
  To use this TOX:
  1. Copy the tox into your project directory, in the same folder as your project toe file.
  2. Copy the MouseInAltCHOP.dll into your *Plugins* directory, either your system level *Plugins* folder or your project level *Plugins* folder.
- 3. Drag and Drop *ScreenGrab.tox* into your project.
+ 3. Restart Touchdesigner, so, it can load the MouseInAltCHOP into memory.
+ 4. Drag and Drop *ScreenGrab.tox* into your project.
  
  ### Cancelling
  
