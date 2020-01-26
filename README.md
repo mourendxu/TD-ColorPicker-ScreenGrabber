@@ -1,4 +1,6 @@
 # TD-ColorPicker-ScreenGrabber
+ ![alt text](https://github.com/mourendxu/TD-ColorPicker-ScreenGrabber/blob/master/ScreenGrabber1.0.jpg "Screen Grabber Screen Shot")
+ 
  Touchdesigner TOX for Picking Color and Grabbing Screen Shots
  
  This TOX uses a custom Mouse In CHOP to work across desktops. Touchdesigner must be the active application for this to work.
