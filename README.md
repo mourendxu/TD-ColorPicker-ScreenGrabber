@@ -5,7 +5,7 @@
  
  This TOX uses a custom Mouse In CHOP to work across desktops and outside of Touch's window. Touchdesigner must be the active application for this to work.
  
- This TOX only works on Windows. To make it work on Mac, you will either need to write a similar Mouse In CHOP for Mac or use Python to achieve something some what equivalent. You basically need to grab the coordinates of your mouse with respect to all your desktops as a single space.
+ This TOX only works on Windows. To make it work on Mac, you will either need to write a similar Mouse In CHOP for Mac or use Python to achieve something that's some what equivalent. You basically need to grab the coordinates of your mouse with respect to all your desktops as a single space.
  
  The only difference between the color picking mode and the screen grabbing mode is if you move the mouse while holding down the *Control* key.
  
