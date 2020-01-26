@@ -1,12 +1,18 @@
 # TD-ColorPicker-ScreenGrabber
+ ![alt text](https://github.com/mourendxu/TD-ColorPicker-ScreenGrabber/blob/master/ScreenGrabber1.0.jpg "Screen Grabber Screen Shot")
+ 
  Touchdesigner TOX for Picking Color and Grabbing Screen Shots
  
- This TOX uses a custom Mouse In CHOP to work across desktops. Touchdesigner must be the active application for this to work.
+ This TOX uses a custom Mouse In CHOP to work across desktops and outside of Touch's window. Touchdesigner must be the active application for this to work.
  
  The only difference between the color picking mode and the screen grabbing mode is if you move the mouse while holding down the *Control* key.
  
  ## Usage:
  
+ 
+ ### Cancelling
+ 
+ During any of the following operations, before you let go the *Control* key, you can cancel the operation by pressing the *Shift* key.
  
  ### Picking Color:
  
@@ -15,7 +21,7 @@
  3. Mouse over the color you want to choose
  4. Press and Release the *Control* key. **DO NOT MOVE THE MOUSE** during this. 
  
- The colors you picked will be outputted to output 2 and 3. Output 2 gives you the colors in a DAT. Output 3 gives you the color(s) as a single image laid out in a grid.
+ The colors you picked will be outputted to output 2 and 3. Output 2 gives you the colors in a DAT, with the RGBA values. You can easily take this and generate a color table for a RampTOP. Output 3 gives you the color(s) as a single image laid out in a grid.
  
  
  
