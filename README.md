@@ -3,7 +3,7 @@
  
  Touchdesigner TOX for Picking Color and Grabbing Screen Shots
  
- This TOX uses a custom Mouse In CHOP to work across desktops. Touchdesigner must be the active application for this to work.
+ This TOX uses a custom Mouse In CHOP to work across desktops and outside of Touch's window. Touchdesigner must be the active application for this to work.
  
  The only difference between the color picking mode and the screen grabbing mode is if you move the mouse while holding down the *Control* key.
  
