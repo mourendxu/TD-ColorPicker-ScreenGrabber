@@ -4,6 +4,9 @@
  Touchdesigner TOX for Picking Color and Grabbing Screen Shots
  
  This TOX uses a custom Mouse In CHOP to work across desktops and outside of Touch's window. Touchdesigner must be the active application for this to work.
+
+[Please find more info on how to install Custom Operators here](https://docs.derivative.ca/Custom_Operators#Using_Custom_OPs_-_Plugin_Folder_Locations)
+
  
  This TOX only works on Windows. To make it work on Mac, you will either need to write a similar Mouse In CHOP for Mac or use Python to achieve something that's some what equivalent. You basically need to grab the coordinates of your mouse with respect to all your desktops as a single space.
  
@@ -14,6 +17,7 @@
  To use this TOX:
  1. Copy the tox into your project directory, in the same folder as your project toe file.
  2. Copy the MouseInAltCHOP.dll into your *Plugins* directory, either your system level *Plugins* folder or your project level *Plugins* folder.
+ [For details on Plugins/Custom Operators, Click here](https://docs.derivative.ca/Custom_Operators#Using_Custom_OPs_-_Plugin_Folder_Locations)
  3. Restart Touchdesigner, so, it can load the MouseInAltCHOP into memory.
  4. Drag and Drop *ScreenGrab.tox* into your project.
  
